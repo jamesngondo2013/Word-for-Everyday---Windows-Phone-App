@@ -1,0 +1,47 @@
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\ApplicationIcon.png
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Background.png
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.dll
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.pdb
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\AppManifest.xaml
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.xap
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\ResolveAssemblyReference.cache
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\App.g.i.cs
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\About.g.i.cs
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\MainPage.g.i.cs
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Message.g.i.cs
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Reminder.g.i.cs
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.g.resources
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.dll
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.pdb
+I:\James Ngondo 2nd Year\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\XapCacheFile.xml
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\ApplicationIcon.png
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Background.png
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.dll
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.pdb
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\AppManifest.xaml
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.xap
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.csprojResolveAssemblyReference.cache
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\App.g.cs
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\About.g.cs
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\MainPage.g.cs
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Message.g.cs
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Reminder.g.cs
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.g.resources
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.dll
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.pdb
+D:\James Ngondo Yr2\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\XapCacheFile.xml
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\ApplicationIcon.png
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Background.png
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.dll
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.pdb
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\AppManifest.xaml
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\Bin\Release\Word4EveryDay.xap
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\App.g.cs
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\About.g.cs
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\MainPage.g.cs
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Message.g.cs
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Reminder.g.cs
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.g.resources
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.dll
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\Word4EveryDay.pdb
+D:\COLLEGE STUFF\GMIT STUFF\James Ngondo 2nd Year\All Semisters\1st Semister\Internet App Dev\Word4EveryDay\Word4EveryDay\Word4EveryDay\obj\Release\XapCacheFile.xml

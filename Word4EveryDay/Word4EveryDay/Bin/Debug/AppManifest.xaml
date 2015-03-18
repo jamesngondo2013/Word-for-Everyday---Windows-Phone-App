@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Word4EveryDay" EntryPointType="Word4EveryDay.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Word4EveryDay" Source="Word4EveryDay.dll" />
+  </Deployment.Parts>
+</Deployment>
